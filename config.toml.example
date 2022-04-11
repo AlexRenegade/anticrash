@@ -1,0 +1,4 @@
+Prefix = "+"
+Token = "yourBotTokenHere"
+ReplyToMessage = true
+LogChannel = "000000000000000000"
